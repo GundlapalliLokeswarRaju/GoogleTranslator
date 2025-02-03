@@ -6,7 +6,7 @@ import os
 print(googletrans.LANGUAGES)
 print("""Choose translation options:
         1.For google assistent audio to text-to-translate
-        2.For google text-to-translator to audio translator
+        2.For google text-to-translator to audio trans
         3.For google text-to-translator
         4.For google assistent to translate""")
 options=int(input("choose your option:"))
